@@ -1,4 +1,4 @@
-clone this project
+Clone this project
 
 create your account or login on https://openai.com/blog/openai-api
 go to api section create a key and copy it
